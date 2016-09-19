@@ -66,10 +66,8 @@ E-mail			arne.bor@outlook.com
 	Principles of Private Law 
 	<br>
 	General Theories of Law 
-	<br>
-    
-	Computer Science Minor: 	
-	<br>
+	
+	Computer Science Minor: 
 	Programming in Java
 	<br>
 	Mathematical Ideas and Methods in Context
@@ -77,12 +75,11 @@ E-mail			arne.bor@outlook.com
 	Database and Management 
 	<br>
 	Algorithms for Scientists 
-	<br>
+	<
     
 	Statistics Minor:
 	<br>
-	Methods & Statistics I		
-	<br>
+	Methods & Statistics I
 	Methods & Statistics II
 	<br>
 	Qualitative Methods 
