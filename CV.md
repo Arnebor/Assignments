@@ -33,10 +33,10 @@ E-mail			arne.bor@outlook.com
 	
 			Direction: Intensive Course Mandarin.
 			Profile: Language Track – A3
-				Elementary Comprehensive Chinese		A+
-				Elementary Spoken Chinese			A+
-				Elementary Chinese Listening			A+
-				Daily Chinese					A+
+				Elementary Comprehensive Chinese:	A+
+				Elementary Spoken Chinese:		A+
+				Elementary Chinese Listening:		A+
+				Daily Chinese:				A+
 
 * Jan.2013 – Jan.2016	University College Roosevelt, Middelburg
 		Honors undergraduate Liberal Arts and Science College
@@ -103,11 +103,11 @@ E-mail			arne.bor@outlook.com
 
 ## Language Skills
 -------------
-Dutch:    Fluently. Dutch High School education.
-English:  Fluently. University College Roosevelt: Elementary, Intermediate. TOEFL: 101. 
-French:   Average knowledge. Dutch High School education.
-German:   Average knowledge. Dutch High School education, University College Roosevelt: B1-level (Elementary, Intermediate).	
-Chinese (Mandarin): Basic Mandarin. Beijing Language and Culture University: A3- level.
+	Dutch:    Fluently. Dutch High School education.
+	English:  Fluently. University College Roosevelt: Elementary, Intermediate. TOEFL: 101. 
+	French:   Average knowledge. Dutch High School education.
+	German:   Average knowledge. Dutch High School education, University College Roosevelt: B1-level (Elementary, Intermediate).	
+	Chinese (Mandarin): Basic Mandarin. Beijing Language and Culture University: A3- level.
 
 ## Work Experience
 --------
