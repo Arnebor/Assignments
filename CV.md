@@ -33,10 +33,10 @@ E-mail			arne.bor@outlook.com
 	
 			Direction: Intensive Course Mandarin.
 			Profile: Language Track – A3
-				Elementary Comprehensive Chinese	A+
-				Elementary Spoken Chinese		A+
-				Elementary Chinese Listening		A+
-				Daily Chinese				A+
+				Elementary Comprehensive Chinese		A+
+				Elementary Spoken Chinese			A+
+				Elementary Chinese Listening			A+
+				Daily Chinese					A+
 
 * Jan.2013 – Jan.2016	University College Roosevelt, Middelburg
 		Honors undergraduate Liberal Arts and Science College
@@ -67,7 +67,8 @@ E-mail			arne.bor@outlook.com
 	<br>
 	General Theories of Law 
 	
-	Computer Science Minor: 
+	Computer Science Minor:
+	<br>
 	Programming in Java
 	<br>
 	Mathematical Ideas and Methods in Context
@@ -75,11 +76,11 @@ E-mail			arne.bor@outlook.com
 	Database and Management 
 	<br>
 	Algorithms for Scientists 
-	<
     
 	Statistics Minor:
 	<br>
 	Methods & Statistics I
+	<br>
 	Methods & Statistics II
 	<br>
 	Qualitative Methods 
