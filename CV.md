@@ -34,10 +34,9 @@ E-mail			arne.bor@outlook.com
 			Direction: Intensive Course Mandarin.
 			Profile: Language Track – A3
 				Elementary Comprehensive Chinese	A+
-				Elementary Spoken Chinese	      	A+
+				Elementary Spoken Chinese		A+
 				Elementary Chinese Listening		A+
 				Daily Chinese				A+
-
 
 * Jan.2013 – Jan.2016	University College Roosevelt, Middelburg
 		Honors undergraduate Liberal Arts and Science College
@@ -45,37 +44,37 @@ E-mail			arne.bor@outlook.com
     Direction: Social Science Major (Economics, Law), with two minors: I: Minor Statistics, II: Minor Computer science.
 
 **Social Science Major:
-    Economics:
-    Introduction to economics
-    International Macroeconomics
-    Principles of Accountancy (London School of Economics Summer Course)
-    Microeconomics & Behavior
-    Money, Banking and Finance
-    Leadership and Strategic Management
-    Law:
-    Law, Society and Justice
-    International and European Law
-    Principles of Private Law 
-    General Theories of Law 
+	Economics:
+	Introduction to economics
+	International Macroeconomics
+	Principles of Accountancy (London School of Economics Summer Course)
+	Microeconomics & Behavior
+	Money, Banking and Finance
+	Leadership and Strategic Management
+	Law:
+	Law, Society and Justice
+	International and European Law
+	Principles of Private Law 
+	General Theories of Law 
     
 **Computer Science Minor: 	
-    Programming in Java
-    Mathematical Ideas and Methods in Context
-    Database and Management 
-    Algorithms for Scientists 
+	Programming in Java
+	Mathematical Ideas and Methods in Context
+	Database and Management 
+	Algorithms for Scientists 
     
 **Statistics Minor:	
-    Methods & Statistics I		
-    Methods & Statistics II
-    Qualitative Methods 
-    Methods & Statistics III
+	Methods & Statistics I		
+	Methods & Statistics II
+	Qualitative Methods 
+	Methods & Statistics III
     
 **Other courses:
-    Introduction to Socio-Cultural Anthropology
-    English for Academic Purposes (Elementary & Intermediate)
-    German (Elementary & Intermediate)
-    World History
-    Econometrics (Tilburg University)
+	Introduction to Socio-Cultural Anthropology
+	English for Academic Purposes (Elementary & Intermediate)
+	German (Elementary & Intermediate)
+	World History
+	Econometrics (Tilburg University)
 
 ## Language Skills
 -------------
