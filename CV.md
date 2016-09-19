@@ -95,14 +95,16 @@ Chinese (Mandarin): Basic Mandarin. Beijing Language and Culture University: A3-
 01/07/06 - 01/08/2012  	Disk-Jockey / Party Entertainer 
 	Private Business
 
-  Duties: Taking care of small parties (30 - 100 persons) for the last grade of primary school and high school. This included taking care of the music, organizing parties/events.  Knowledge of several music equipment was obliged.
+  Duties: Taking care of small parties (30 - 100 persons) for the last grade of primary school and high school. 
+  This included taking care of the music, organizing parties/events.  Knowledge of several music equipment was obliged.
 
 03/09/2011 - 17/05/2012  	Hockey Trainer 
 	Gooische Hockey Club
 
-  Duties: Training hockey teams (between 12-14 years). Teaching youngsters to play hockey on a high level, this included private trainings.  
+  	Duties: Training hockey teams (between 12-14 years). Teaching youngsters to play hockey on a high level, 
+  	this included private trainings.  
 
 ## Achievements
 -------
-•	Proof of English Proficiency: TOEFL (The Test of English as a Foreign Language) test score: 101.
-•	Proof of Chinese Proficiency: A3-Level: A+.
+* Proof of English Proficiency: TOEFL (The Test of English as a Foreign Language) test score: 101.
+* Proof of Chinese Proficiency: A3-Level: A+.
