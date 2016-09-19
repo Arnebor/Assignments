@@ -6,16 +6,16 @@ Curriculum Vitae September 2016 - Arne Bor
 ## Personal Information
 ----------
 
-Date of Birth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 03-02-1994  
-Nationality&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dutch, the Netherlands  
-Current Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Van Bijnkershoeklaan 233, 3527 XG, Utrecht, the Netherlands  
-Contact No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+31621211841  
-E-mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arne.bor@outlook.com
+Date of Birth		03-02-1994  
+Nationality		Dutch, the Netherlands  
+Current Address		Van Bijnkershoeklaan 233, 3527 XG, Utrecht, the Netherlands  
+Contact No		+31621211841  
+E-mail			arne.bor@outlook.com
 
 ## Education
 ----------
 
-*2006 - 2012		Sint Vituscollege, Bussum
+* 2006 - 2012		Sint Vituscollege, Bussum
 			
 			Direction: VWO - Voortgezet Wetenschappelijk Onderwijs ( Pre-				
 			University Education).
@@ -44,7 +44,7 @@ E-mail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 			
     Direction: Social Science Major (Economics, Law), with two minors: I: Minor Statistics, II: Minor Computer science.
 
-Social Science Major:
+**Social Science Major:
     Economics:
     Introduction to economics
     International Macroeconomics
@@ -58,19 +58,19 @@ Social Science Major:
     Principles of Private Law 
     General Theories of Law 
     
-Computer Science Minor: 	
+**Computer Science Minor: 	
     Programming in Java
     Mathematical Ideas and Methods in Context
     Database and Management 
     Algorithms for Scientists 
     
-Statistics Minor:	
+**Statistics Minor:	
     Methods & Statistics I		
     Methods & Statistics II
     Qualitative Methods 
     Methods & Statistics III
     
-Other courses:
+**Other courses:
     Introduction to Socio-Cultural Anthropology
     English for Academic Purposes (Elementary & Intermediate)
     German (Elementary & Intermediate)
