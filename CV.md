@@ -40,41 +40,68 @@ E-mail			arne.bor@outlook.com
 
 * Jan.2013 – Jan.2016	University College Roosevelt, Middelburg
 		Honors undergraduate Liberal Arts and Science College
-			
-    Direction: Social Science Major (Economics, Law), with two minors: I: Minor Statistics, II: Minor Computer science.
 
-**Social Science Major:
+	Social Science Major:
+	<br>
 	Economics:
+	<br>
 	Introduction to economics
+	<br>
 	International Macroeconomics
+	<br>
 	Principles of Accountancy (London School of Economics Summer Course)
+	<br>
 	Microeconomics & Behavior
+	<br>
 	Money, Banking and Finance
+	<br>
 	Leadership and Strategic Management
+	<br>
 	Law:
+	<br>
 	Law, Society and Justice
+	<br>
 	International and European Law
+	<br>
 	Principles of Private Law 
+	<br>
 	General Theories of Law 
+	<br>
     
-**Computer Science Minor: 	
+	Computer Science Minor: 	
+	<br>
 	Programming in Java
+	<br>
 	Mathematical Ideas and Methods in Context
+	<br>
 	Database and Management 
+	<br>
 	Algorithms for Scientists 
+	<br>
     
-**Statistics Minor:	
+	Statistics Minor:
+	<br>
 	Methods & Statistics I		
+	<br>
 	Methods & Statistics II
+	<br>
 	Qualitative Methods 
+	<br>
 	Methods & Statistics III
+	<br>
     
-**Other courses:
+	Other courses:
+	<br>
 	Introduction to Socio-Cultural Anthropology
+	<br>
 	English for Academic Purposes (Elementary & Intermediate)
+	<br>
 	German (Elementary & Intermediate)
+	<br>
 	World History
+	<br>
 	Econometrics (Tilburg University)
+	<br>
 
 ## Language Skills
 -------------
